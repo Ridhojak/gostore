@@ -18,7 +18,7 @@ class Pesanan_saya extends CI_Controller
             'title' => 'Proses Pesanan',
             'belum_bayar' => $this->m_transaksi->belum_bayar(),
             'diproses' => $this->m_transaksi->diproses(),
-            'gagal' => $this->m_transaksi->pesanan_gagal(),
+            'gagal' => $this->m_transaksi->gagal(),
             'dikirim' => $this->m_transaksi->dikirim(),
             'selesai' => $this->m_transaksi->selesai(),
             'isi' => 'v_pesanan_saya',

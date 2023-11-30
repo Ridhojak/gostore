@@ -14,7 +14,7 @@
                     <li class="nav-item">
                         <a class="nav-link active" id="custom-tabs-four-home-tab" data-toggle="pill"
                             href="#custom-tabs-four-home" role="tab" aria-controls="custom-tabs-four-home"
-                            aria-selected="true">Status Order</a>
+                            aria-selected="true">Status Order 2</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" id="custom-tabs-four-profile-tab" data-toggle="pill"
